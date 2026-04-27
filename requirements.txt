@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+numpy
+pandas
+python-dateutil
+ipython
